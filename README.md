@@ -21,17 +21,6 @@ Examples
 	~ : Starting a token with tilde will cause a case-insensitive match.
 	- : Starting a token with minus will exclude results that match.
     
- 
-Known Limitations
-=================
-
-  * Won't find the backup sqlite db on Windows, but it *should* run if you pass
-    in the db name with --input.  (I haven't tested it, though...)
-
-  * Assumes encoding of texts is 'utf-8'...and there's no way to change it.
-    
-  * Does not try to recover texts with photos.  Just skips past them.
-
 License
 =======
 Vim License.  Copyright 2011 David Zuercher.
