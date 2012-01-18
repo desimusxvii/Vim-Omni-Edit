@@ -23,4 +23,4 @@ Examples
     
 License
 =======
-Vim License.  Copyright 2011 David Zuercher.
+Vim License.  Copyright 2012 David Zuercher.
